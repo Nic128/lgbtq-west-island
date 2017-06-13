@@ -1,7 +1,7 @@
 {
-  "name": "lgbtq-west-island",
+  "name": "victor-hugo",
   "version": "1.0.0",
-  "description": "Website for the LGBTQ West Island Centre",
+  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",

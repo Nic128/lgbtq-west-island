@@ -1,0 +1,11 @@
+weight: 1
+title: "Upcoming events"
+description: >
+  <ul class="list-style-none">
+    <li>Want to know what's happening?</li>
+    <li>
+      <a href="/calendar" class="btn btn-template-transparent-black">Go to calendar</a>
+    </li>
+  </ul>
+image: ""
+icon: "fa fa-calendar"

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/about-the-center/</loc>
+    <lastmod>2017-02-18T13:39:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/</loc>
+    <lastmod>2017-02-18T13:39:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/parents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/seniors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/young-adults/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lgbtqwicentre.org/youth/</loc>
+  </url>
+  
+</urlset>

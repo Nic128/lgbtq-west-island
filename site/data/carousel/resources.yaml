@@ -1,0 +1,11 @@
+weight: 2
+title: "Resources"
+description: >
+  <ul class="list-style-none">
+    <li>Need help?</li>
+    <li>
+      <a href="/calendar" class="btn btn-template-transparent-black">See resources</a>
+    </li>
+  </ul>
+image: ""
+icon: "fa fa-users"

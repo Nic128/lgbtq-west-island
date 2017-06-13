@@ -1,0 +1,11 @@
+weight: 3
+title: "Support us"
+description: >
+  <ul class="list-style-none">
+    <li>Considering making a donation?</li>
+    <li>
+      <a href="https://www.canadahelps.org/en/charities/centre-jeunesse-lgbtq-lgbtq-youth-centre/" class="btn btn-template-transparent-black">Make a donation</a>
+    </li>
+  </ul>
+image: ""
+icon: "fa fa-credit-card"

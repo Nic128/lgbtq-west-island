@@ -1,0 +1,37 @@
+{{ if gt (len .Site.Data.resources_clergy) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                {{ range sort .Site.Data.resources_clergy "weight" }}
+                <div class="col-md-4">
+                    <div class="box-simple clergy">
+                        {{ if .image }}
+                        <a href="{{ .link }}" target="_blank">
+                            <img src="/img/resources_clergy/{{ .image }}"/>
+                        </a>
+                        {{ else if .link }}
+                        <a class="icon" href="{{ .link }}" target="_blank">
+                            <i class="{{ .icon }}"></i>
+                        </a>
+                        {{ else }}
+                        <div class="icon">
+                            <i class="{{ .icon }}"></i>
+                        </div>
+                        {{ end }}
+                        <h3>{{ .name }}</h3>
+                        {{ if .phone }}
+                        <p>
+                            <a href="tel:+{{ .phone }}">{{ .phone }}</a>
+                            {{ if .phone_extra }}{{ .phone_extra }}{{ end }}
+                        </p>
+                        {{ end }}
+                        <p>{{ .description }}</p>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

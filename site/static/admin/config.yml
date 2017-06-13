@@ -19,6 +19,7 @@ collections:
     folder: "site/data/testimonials"
     create: true
     format: "yaml"
+    extension: "yaml"
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Position", name: "position", widget: "string"}

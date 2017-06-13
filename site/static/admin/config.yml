@@ -18,7 +18,7 @@ collections:
     label: "Testimonials"
     folder: "site/data/testimonials"
     create: true
-    format: yaml
+    format: "yaml"
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Position", name: "position", widget: "string"}

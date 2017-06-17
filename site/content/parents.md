@@ -1,8 +1,7 @@
-+++
-title = "Parents group"
-id = "parents"
-+++
-
+---
+title: Parents group
+id: parents
+---
 As a parent; has your child recently come out to you and you don’t know how to take it? Is your child transitioning and you are unsure how to show your support or vent your concerns? Do you think your child might be gay or lesbian?
 
 As a youth; do you feel like your parents just don’t understand you? Are you tired of trying to talk to your parents about your orientation?

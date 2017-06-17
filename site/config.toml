@@ -40,7 +40,7 @@ paginate = 10
     # email = ""
 
     about_us = "<p>The Centre is a safe space, which encourages the free exchange of words & ideas. We can’t understand each other (or ourselves) unless we begin with honest & respectful dialogue.</p>"
-    copyright = "Site made by <a href=\"mailto:nicolas.martel@outlook.com\">Nicolas Martel</a><br>Copyright (c) 2017, LGBTQ West Island Center; all rights reserved."
+    copyright = "Site made by <a href=\"mailto:nicolas.martel@outlook.com\">Nicolas Martel</a><br>Copyright (c) 2017, LGBTQ West Island Centre; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -78,8 +78,8 @@ paginate = 10
     blog = "/blog/:year/:month/:day/:filename/"
 
 [[params.menu]]
-    name = "About the center"
-    url  = "/about-the-center/"
+    name = "About the centre"
+    url  = "/about-the-centre/"
     class = "text-blue"
     weight = 1
 
@@ -171,6 +171,6 @@ paginate = 10
     link_text = "See more resources"
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "From our blog"
     subtitle = ""

@@ -1,6 +1,5 @@
-+++
-title = "Calendar"
-id = "calendar"
-+++
-
+---
+title: Calendar
+id: calendar
+---
 Calendar

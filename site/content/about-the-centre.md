@@ -1,9 +1,6 @@
-+++
-date = "2017-02-18T13:39:24-05:00"
-title = "About the center"
-
-+++
-
+---
+title: About the centre
+---
 On 15 May 2011, Beaconsfield United Church in the West Island of Montreal opened the LGBTQ Youth Centre with the aim of providing a safe and welcoming environment where lesbian, gay, bisexual, transgender and questioning young people can meet up, get to know each other, and generally understand themselves better as queer-identified people.
 
 The Centre is a safe space, which encourages the free exchange of words & ideas. We can’t understand each other (or ourselves) unless we begin with honest & respectful dialogue.
@@ -32,9 +29,9 @@ The resources section provides access to other Montreal Centres, offers guidance
 
 Make a donation! Help out lesbian, gay, bisexual, transgendered and questioning youth by donating generously.
 
-## Drop-In Center
+## Drop-In Centre
 
-Our Drop in center is open Wednesdays & Fridays from 4:00-8:00 PM
+Our Drop in centre is open Wednesdays & Fridays from 4:00-8:00 PM
 
 ## Contacting the Centre
 

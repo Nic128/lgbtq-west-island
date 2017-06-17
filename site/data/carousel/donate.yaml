@@ -5,7 +5,7 @@ description: >
   <ul class="list-style-none">
     <li>Considering making a donation?</li>
     <li>
-      <a href="https://www.canadahelps.org/en/charities/centre-jeunesse-lgbtq-lgbtq-youth-centre/" class="btn btn-template-transparent-black">Make a donation</a>
+      <a href="/donate" class="btn btn-template-transparent-black">Make a donation</a>
     </li>
   </ul>
 image: ""

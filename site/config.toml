@@ -103,7 +103,7 @@ paginate = 10
 
 [[params.menu]]
     name = "Donate now"
-    url  = "https://www.canadahelps.org/en/charities/centre-jeunesse-lgbtq-lgbtq-youth-centre/"
+    url  = "/donate/"
     weight = 5
 
 [[params.submenu]]

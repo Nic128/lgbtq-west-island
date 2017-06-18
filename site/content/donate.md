@@ -1,8 +1,8 @@
 ---
-title: Support our work
 id: donate
+title: Support our work
 ---
-Every cent given helps lesbian, gay, bisexual, transgender and questioning youth from the West Island of Montréal find a safe haven and an accepting community in which long lasting friendships are born. Your donation will make a huge difference!
+Every cent given helps lesbian, gay, bisexual, transgender and questioning youth from the West Island of Montreal find a safe haven and an accepting community in which long lasting friendships are born. Your donation will make a huge difference!
 
 ### Donation of goods
 

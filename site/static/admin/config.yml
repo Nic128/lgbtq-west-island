@@ -11,7 +11,7 @@ collections:
   - name: "pages"
     label: "Pages"
     folder: "site/content"
-    create: false
+    create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

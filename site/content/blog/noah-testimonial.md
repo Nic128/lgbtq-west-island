@@ -3,7 +3,7 @@ date: 2017-03-12T10:41:29-04:00
 title: Noah's testimonial
 categories: ["testimonial"]
 banner: img/banners/banner-1.jpg
-draft: true
+draft: false
 ---
 
 Good Evening all,

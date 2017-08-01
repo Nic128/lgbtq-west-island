@@ -40,7 +40,7 @@ paginate = 10
     # email = ""
 
     about_us = "<p>The Centre is a safe space, which encourages the free exchange of words & ideas. We can’t understand each other (or ourselves) unless we begin with honest & respectful dialogue.</p>"
-    copyright = "Site made by <a href=\"mailto:nicolas.martel@outlook.com\">Nicolas Martel</a><br>Copyright (c) 2017, LGBTQ West Island Centre; all rights reserved."
+    copyright = "Site made by <a href=\"https://nicolasmartel.com\">Nicolas Martel</a><br>Copyright (c) 2017, LGBTQ West Island Centre; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -130,6 +130,11 @@ paginate = 10
     name = "Blog"
     url  = "/blog/"
     weight = 5
+
+[[params.submenu]]
+    name = "Hide this page"
+    url  = "https://www.theweathernetwork.com/ca"
+    weight = 6
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

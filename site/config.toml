@@ -127,14 +127,9 @@ paginate = 10
     weight = 4
 
 [[params.submenu]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 5
-
-[[params.submenu]]
     name = "Hide this page"
     url  = "https://www.theweathernetwork.com/ca"
-    weight = 6
+    weight = 5
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
